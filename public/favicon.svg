@@ -1,0 +1,6 @@
+<symbol viewBox="0 0 32 32">
+<path d="M16 0c8.837 0 16 7.163 16 16s-7.163 16-16 16c-8.837 0-16-7.163-16-16s7.163-16 16-16z"></path>
+<path fill="none" stroke="#4df0f8" style="stroke: var(--color1, #4df0f8)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="0.48" d="M24.824 17.226c0 4.871-3.953 8.824-8.824 8.824s-8.824-3.953-8.824-8.824c0-4.871 3.953-8.824 8.824-8.824s8.824 3.953 8.824 8.824z"></path>
+<path fill="none" stroke="#4df0f8" style="stroke: var(--color1, #4df0f8)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="0.48" d="M16 12.324v4.902"></path>
+<path fill="none" stroke="#4df0f8" style="stroke: var(--color1, #4df0f8)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.48" d="M13.059 5.951h5.882"></path>
+</symbol>
